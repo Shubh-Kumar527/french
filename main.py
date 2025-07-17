@@ -14,14 +14,7 @@ st.title('🇫🇷 Welcome to the French Quiz 🇫🇷')
 
 # Question list
 question_list = [
-    '1) What was the Bastille?',
-    '2) When was the Bastille stormed?',
-    '3) Why was the Bastille hated by all?',
-    '4) Who led the storming of the Bastille?',
-    '5) What is the historical significance of 14 July in France?',
-    '6) How is Bastille Day celebrated in France?',
-    '7) How is the fall of the Bastille remembered today?',
-    '8) What is the most common activity in France during the Bastille Day celebration?'
+    
 ]
 
 # Only select a random question once
