@@ -14,7 +14,7 @@ st.title('🇫🇷 Welcome to the French Quiz 🇫🇷')
 
 # Question list
 question_list = [
-    
+    '1) What was the Bastille?'
 ]
 
 # Only select a random question once
